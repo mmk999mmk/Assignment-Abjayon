@@ -1,0 +1,12 @@
+.home-container {
+  background-image: url('https://stangelsrohini.com/images/dummy.jpg');
+  background-size: cover;
+  height: 100vh;
+  padding: 10px;
+  text-align: center;
+}
+.butt {
+  background-color: blue;
+  color: white;
+  border-radius: 10px;
+}
